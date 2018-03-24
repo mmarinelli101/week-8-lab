@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+
+/* Joe's Pizza co. front page */
+
+/* Author: Mike Marinelli */
+/* Date: 3/12/18
+
+
+
+
+/* Header */
+
+header {
+             
+}
+
+ #logo {
+    padding-top: 50px;
+    padding-left:1em; 
+    color:green;
+    font-size: 200%;
+   font-style: italic;
+}
+
+nav {
+    text-align: right;
+    padding-right:1em;
+    color: gray;
+    position: absolute;
+    top: 25px;
+    right: 50px;
+} 
+/* body */
+ 
+body {
+    background-color: #FFF7C9;   
+    
+}
+
+section#feature {
+    display: block;
+    width: 930px;
+    height: 300px;
+    margin: 0 auto;
+    background-image: url(featureBg.png);
+    background-repeat: no-repeat;
+    background-color: #FFF7C9;
+    background-position: center;
+    text-align: center;
+    color:white;
+}
+
+section#home-text{
+    padding: 10px 8px 10px 8px;
+    width: 55%;
+    float:left;
+  background-color: white;
+  color:gray;
+  
+}
+
+
+section#offers{
+    text-align: left;
+    padding: 10px 8px 10px 8px;
+    width: 40%;
+  float:left;
+  background-color:red;
+  color:white;
+  margin-left: 2%;
+}
+
+/* footer */
+
+footer {
+    text-align: center;
+    color:gray;
+    padding-top: 150px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
