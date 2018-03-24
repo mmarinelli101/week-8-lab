@@ -80,7 +80,7 @@ section#offers{
 }
 
 section#offers > h2{
-       text-shadow: 0 2px, 4px, #000;
+       text-shadow: 0 2px 4px #000;
 }
 /* footer */
 
