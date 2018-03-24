@@ -18,8 +18,8 @@
        position: relative;
 }
 
-header {
-     
+header > nav {
+     padding-left:50px;
 }
 
 
@@ -33,11 +33,12 @@ header {
 
 nav {
     text-align: right;
-    padding-right:1em;
+    padding-right:0;
     color: gray;
     position: absolute;
     top: 25px;
     right: 50px;
+    font-family: sans-serif; 
 } 
 /* body */
  
