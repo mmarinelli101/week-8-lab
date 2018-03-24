@@ -10,11 +10,15 @@
 
 
 /* Header */
-
-header {
+#container {
        max-width:1024px;
        width:100%;
 }
+
+header {
+     
+}
+
 
  #logo {
     padding-top: 50px;
