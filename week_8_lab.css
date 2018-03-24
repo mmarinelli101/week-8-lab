@@ -66,7 +66,7 @@ section#feature {
     background-size:cover;
 }
 
-feature > h1{
+#feature > h1{
        display: inline-block;
        font-size:64;
        font-weight: bold;
