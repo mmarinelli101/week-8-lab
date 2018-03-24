@@ -20,11 +20,12 @@
 
 nav > a {
      padding-left:50px;
+     font-family: sans-serif; 
 }
 
 
  #logo {
-    padding-top: 50px;
+    padding-top: 25px;
     padding-left:1em; 
     color:green;
     font-size: 200%;
@@ -38,7 +39,7 @@ nav {
     position: absolute;
     top: 25px;
     right: 50px;
-    font-family: sans-serif; 
+    
 } 
 /* body */
  
