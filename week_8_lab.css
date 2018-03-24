@@ -68,10 +68,14 @@ section#feature {
 
 #feature > h1{
        display: inline-block;
-       font-size:64;
+       font-size:64px;
        font-weight: bold;
 }       
 
+#feature > h2{
+       font-size: 22px;
+       font-style: italic;
+}
 
 section#home-text{
     padding: 10px 8px 10px 8px;
