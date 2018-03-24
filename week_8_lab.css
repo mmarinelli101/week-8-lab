@@ -66,6 +66,13 @@ section#feature {
     background-size:cover;
 }
 
+feature > h1{
+       display: inline-block;
+       font-size:64;
+       font-weight: bold;
+}       
+
+
 section#home-text{
     padding: 10px 8px 10px 8px;
     width: 55%;
