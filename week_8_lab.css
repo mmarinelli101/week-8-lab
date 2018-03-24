@@ -63,6 +63,7 @@ section#feature {
     text-align: center;
     color:white;
     text-shadow: 0 2px 4px #000;
+    background-size:cover;
 }
 
 section#home-text{
