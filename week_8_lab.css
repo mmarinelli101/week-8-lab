@@ -18,7 +18,7 @@
        position: relative;
 }
 
-header > nav {
+nav > a {
      padding-left:50px;
 }
 
