@@ -89,9 +89,7 @@ section#home-text{
     box-shadow:  0 0 15px rgba(0,0,0,0.5);
 }
 
-       section#home-text p, section#home-text h2 {
-  padding: 0 10px;
-       }
+   
        
 section#offers{
     text-align: left;
