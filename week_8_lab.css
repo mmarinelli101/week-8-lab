@@ -4,7 +4,7 @@
 /* Joe's Pizza co. front page */
 
 /* Author: Mike Marinelli */
-/* Date: 3/12/18
+/* Date: 3/24/18
 
 
 
@@ -64,6 +64,7 @@ section#feature {
     color:white;
     text-shadow: 0 2px 4px #000;
     background-size:cover;
+    padding-bottom: 20px;
 }
 
 #feature > h1{
