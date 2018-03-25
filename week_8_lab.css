@@ -70,6 +70,7 @@ section#feature {
        display: inline-block;
        font-size:64px;
        font-weight: bold;
+       margin-top: 80px;
 }       
 
 #feature > h2{
@@ -91,10 +92,10 @@ section#offers{
     text-align: left;
     padding: 10px 8px 10px 8px;
     width: 40%;
-  float:left;
+  float:right;
   background-color:red;
   color:white;
-  margin-left: 2%;
+  margin-left: 1%;
 }
 
 section#offers > h2{
